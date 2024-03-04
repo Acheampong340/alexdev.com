@@ -1,0 +1,16 @@
+ <div class="form-container">
+    <form action="login/php" method="post">
+     <h1>Log in</h1>
+    <p> 
+     <label>Username:</label><br>
+    <input type="text" name="username" placeholder="enter username" required>
+    </p>
+        <p> 
+     <label>Password:</label><br>
+    <input type="text" name="password" placeholder="enter password" required>
+    </p>
+    <p>
+    <input type="submit">
+    </p>
+    </form>
+        </div>
